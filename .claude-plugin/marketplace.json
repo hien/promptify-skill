@@ -1,0 +1,15 @@
+{
+  "name": "promptify-skill",
+  "displayName": "Promptify Skill",
+  "owner": {
+    "name": "tolibear",
+    "url": "https://github.com/tolibear"
+  },
+  "plugins": [
+    {
+      "name": "promptify",
+      "description": "+ask +deep +web modifiers | Optimize your prompts for clarity and effectiveness",
+      "version": "3.1.0"
+    }
+  ]
+}
